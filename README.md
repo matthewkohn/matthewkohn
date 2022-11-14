@@ -15,20 +15,21 @@ I am currently seeking opportunities to learn from and contribute to the open so
 Please feel free to reach out to me at kohney319m@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewkohn1/) or [Twitter](https://twitter.com/MatthewKohn5). Happy coding!
 
 ---
-
-<img src="./public/png/react.svg" width="20px"/>
-<img src="./public/png/javascript.svg" width="20px"/>
-<img src="./public/png/ruby.svg" width="20px"/>
-<img src="./public/png/rubyonrails.svg" width="20px"/>
-<img src="./public/png/reactrouter.svg" width="20px"/>
-<img src="./public/png/mysql.svg" width="20px"/>
-<img src="./public/png/postgresql.svg" width="20px"/>
-<img src="./public/png/sqlite.svg" width="20px"/>
-<img src="./public/png/github.svg" width="20px"/>
-<img src="./public/png/mui.svg" width="20px"/>
-<img src="./public/png/css3.svg" width="20px"/>
-<img src="./public/png/visualstudiocode.svg" width="20px"/>
-<img src="./public/png/rubysinatra.svg" width="20px"/>
+<p float="left">
+  <img src="./public/png/react.svg" width="20px"/>
+  <img src="./public/png/javascript.svg" width="20px"/>
+  <img src="./public/png/ruby.svg" width="20px"/>
+  <img src="./public/png/rubyonrails.svg" width="20px"/>
+  <img src="./public/png/reactrouter.svg" width="20px"/>
+  <img src="./public/png/mysql.svg" width="20px"/>
+  <img src="./public/png/postgresql.svg" width="20px"/>
+  <img src="./public/png/sqlite.svg" width="20px"/>
+  <img src="./public/png/github.svg" width="20px"/>
+  <img src="./public/png/mui.svg" width="20px"/>
+  <img src="./public/png/css3.svg" width="20px"/>
+  <img src="./public/png/visualstudiocode.svg" width="20px"/>
+  <img src="./public/png/rubysinatra.svg" width="20px"/>
+</p>
 
 ---
 
