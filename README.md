@@ -16,19 +16,19 @@ Please feel free to reach out to me at kohney319m@gmail.com, or connect with me 
 
 ---
 
-<img src="./public/png/react.svg" width="10%"/>
-<img src="./public/png/javascript.svg" width="10%"/>
-<img src="./public/png/ruby.svg" width="10%"/>
-<img src="./public/png/rubyonrails.svg" width="10%"/>
-<img src="./public/png/reactrouter.svg" width="10%"/>
-<img src="./public/png/mysql.svg" width="10%"/>
-<img src="./public/png/postgresql.svg" width="10%"/>
-<img src="./public/png/sqlite.svg" width="10%"/>
-<img src="./public/png/github.svg" width="10%"/>
-<img src="./public/png/mui.svg" width="10%"/>
-<img src="./public/png/css3.svg" width="10%"/>
-<img src="./public/png/visualstudiocode.svg" width="10%"/>
-<img src="./public/png/rubysinatra.svg" width="10%"/>
+<img src="./public/png/react.svg" width="20px"/>
+<img src="./public/png/javascript.svg" width="20px"/>
+<img src="./public/png/ruby.svg" width="20px"/>
+<img src="./public/png/rubyonrails.svg" width="20px"/>
+<img src="./public/png/reactrouter.svg" width="20px"/>
+<img src="./public/png/mysql.svg" width="20px"/>
+<img src="./public/png/postgresql.svg" width="20px"/>
+<img src="./public/png/sqlite.svg" width="20px"/>
+<img src="./public/png/github.svg" width="20px"/>
+<img src="./public/png/mui.svg" width="20px"/>
+<img src="./public/png/css3.svg" width="20px"/>
+<img src="./public/png/visualstudiocode.svg" width="20px"/>
+<img src="./public/png/rubysinatra.svg" width="20px"/>
 
 ---
 
