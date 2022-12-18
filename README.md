@@ -2,15 +2,17 @@
 <img src="./public/png/githubProfileBanner4.png" width="100%" />
 
 # Hello there 👋
-My name is Matthew, my friends call me Matt.  
+I'm Matt, a software engineer from Eagle, Colorado. I'm also a sociologist, explorer, and recovering bartender.
 
-After over 20 years as a restaurant professional, I've shifted the way I help people from providing great service to providing great solutions using good code.
+Recently, I graduated from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB&gclid=Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB)'s Software Engineering Bootcamp in October 2022. Immersed in their rigorous curriculum, while working full-time in a restaurant, over the past year I learned how to use ES6 JavaScript, CSS, React, Ruby, Ruby on Rails, Sinatra, MySQL and PostgreSQL to build full-stack CRUD web applications. 
 
-Now, I'm living my dream as a full stack software engineer, recently graduated from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB&gclid=Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB)'s Software Engineering program in October 2022. With access to their rigorous curriculum, we concentrated on building things with vanilla JavaScript, React, Ruby, Ruby on Rails, Sinatra, SQL and PostGresQl, among so many other things.
+Every day, I work on improving my projects and build new ones, while learning more about [Material UI](https://m3.material.io/), [Redux](https://redux.js.org/introduction/getting-started), [DraftJS](https://draftjs.org/), [TypeScript](https://www.typescriptlang.org/), [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html), [Jest](https://jestjs.io/), and lots more.
 
-I am currently seeking opportunities to learn from and contribute to the open source community. 
+I am currently seeking opportunities to learn from & contribute to the open source community. 
 
-Please feel free to reach out to me here, at kohney319m@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewkohn1/) or [Twitter](https://twitter.com/MatthewKohn5). Happy coding!
+If there's anything I can do to help, check out my website [mattkohn.tech](https://mattkohn.tech), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewkohn1/).
+
+I wish you all the best. Happy coding!
 
 ---
 
