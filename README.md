@@ -1,5 +1,5 @@
 
-<img src="./public/png/githubProfileBanner4.png" width="100%" />
+<img src="./public/png/linkedin-banner.png" width="100%" />
 
 # Hello there 👋
 I'm Matt, a software engineer from Eagle, Colorado. I'm also a sociologist, explorer, and recovering bartender.
