@@ -2,11 +2,7 @@
 <img src="./public/png/linkedin-banner.png" width="100%" />
 
 # Hello World 👋
-I'm Matt, a software engineer from Eagle, Colorado.
-
-Recently, I graduated from [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169839&utm_content=127574231184&utm_term=flatiron%20school&uqaid=513799628798&Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB&gclid=Cj0KCQiAyMKbBhD1ARIsANs7rEHlBv5sKPla09BVm0JQGsvbPKalrNrcv4P4t5SUpx1tJmJZbIddPusaAqNmEALw_wcB)'s Software Engineering Bootcamp. Immersed in their rigorous curriculum, I learned how to use [ES6 JavaScript](https://www.w3schools.com/js/js_es6.asp), [CSS](https://www.w3schools.com/css/), [React](https://reactjs.org/), [Ruby](https://www.ruby-lang.org/en/), [Ruby on Rails](https://rubyonrails.org/), [Sinatra](https://sinatrarb.com/), [MySQL](https://www.mysql.com/) and [PostgreSQL](https://www.postgresql.org/) to build full-stack CRUD web applications. Now, I write frontend dynamic single-page apps, connected to custom backends following the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) pattern with relational databases.
-
-Every day, I work on improving my projects and building new ones, while learning more about [Material UI](https://m3.material.io/), [Redux](https://redux.js.org/introduction/getting-started), [DraftJS](https://draftjs.org/), [TypeScript](https://www.typescriptlang.org/), [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html), [Jest](https://jestjs.io/), and lots more.
+I'm Matt, freelance software engineer from Eagle, Colorado.
 
 Check out my portfolio website at [mattkohn.tech](https://mattkohn.tech), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewkohn1/).
 
