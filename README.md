@@ -1,10 +1,9 @@
 
 <img src="./public/png/linkedin-banner.png" width="100%" />
 
-# Hello World 👋
-I'm Matt, freelance software engineer from Eagle, Colorado.
-
-Check out my portfolio website at [mattkohn.tech](https://mattkohn.tech), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewkohn1/).
+Software engineer from Eagle, Colorado, USA.
+* Portfolio: [mattkohn.tech](https://mattkohn.tech)
+* [LinkedIn](https://www.linkedin.com/in/matthewkohn1/).
 
 ---
 
